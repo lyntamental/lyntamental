@@ -11,6 +11,10 @@ h1 {
   color: #e1e1e1;
 }
 
+img {
+  width: 50%;
+}
+
 p {
   height: 2em; 
   width: 450px;
