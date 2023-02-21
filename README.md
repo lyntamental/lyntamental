@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##Sources 
+* [Sentient from Font Share](https://www.fontshare.com/fonts/sentient)
