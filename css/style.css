@@ -17,18 +17,23 @@ img {
 }
 
 p {
-  font-family: "Sentient-Light";
+  font-family: "Sentient-Regular";
   font-weight: 500;
-  height: 2em; 
-  width: 475px;
+  font-size: 18px;
+  height: 1.5em; 
+  width: 650px;
   padding-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 ul { 
   margin-top: 120px;
-  line-height: 2em;
+  /*line-height: 2em;*/
   list-style: none;
   padding-left: 0; 
+  padding-right: .5em;
+  display: flex;
+  align-items: center;
 }
 
 li {
@@ -43,9 +48,13 @@ a {
     color: white;
     background-color: #8080bf;
     height: 1.5em;
-    width: 6em;
+    width: 7em;
     padding: .5em;
+    padding-left: .7em;
+    padding-right: .7em;
+    margin-top: 1em;
     margin-bottom: .5em;
+    margin-right: 1em;
     text-align: center;
     border-radius: 30px;
   
