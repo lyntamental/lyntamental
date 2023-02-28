@@ -1,14 +1,15 @@
 @import url(sentient.css);
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Rowdies:wght@300&display=swap");
 
 body {
-  background: #8080bf;
+  background: #D4A3D4;
   color: white;
-  padding: 6em;
-  margin: 5em;
+  padding: 3em;
 }
 
 h1 {
-  color: #e1e1e1;
+  color: white;
+  font-family: "Rowdies";
 }
 
 img {
@@ -16,10 +17,11 @@ img {
 }
 
 p {
-  font-family: "Sentient-Medium";
+  font-family: "Sentient-Light";
   font-weight: 500;
   height: 2em; 
-  width: 450px;
+  width: 475px;
+  padding-bottom: 1em;
 }
 
 ul { 
@@ -34,20 +36,22 @@ li {
 }
 
 a {
-  text-decoration: none;
-  color: #e1e1e1;
-  letter-spacing: 0.5px;
-  background-color: #5E5EAE;
-  height: 1.5em;
-  width: 6em;
-  padding: .5em;
-  margin-bottom: .5em;
-  text-align: center;
-  border-radius: 30px;
+    font-family: "Rowdies";
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    color: white;
+    background-color: #8080bf;
+    height: 1.5em;
+    width: 6em;
+    padding: .5em;
+    margin-bottom: .5em;
+    text-align: center;
+    border-radius: 30px;
+  
 }
 
 a:hover {
-  background-color: #e1e1e1;
-  color: #8080bf;
+  background-color: white;
+  color: #E24958;
   transition: all 0.2s ease;
 }
