@@ -3,7 +3,7 @@
 > ✦ *currently living in a utopia of sentimental androids.*
 
 ## ✦ 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛! ¤°•.•°
-I'm Lyn. I'm an aspiring ux designer and hobby illustrator that dabbles in web design here and there.
+**Howdy-do! I'm Lyn.** I'm an aspiring ux designer and hobby illustrator that dabbles in web design here and there.
 i love making things garishly hyper-feminine and over indulgent. if that's your vibe, feel free to hang around. 🎀✨
 
 ---
