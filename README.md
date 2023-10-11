@@ -12,7 +12,8 @@ i love making things garishly hyper-feminine and over indulgent. if that's your 
 - 🎀 personal portfolio site
 - 🎀 my JavaScript abilities
 - 🎀 getting familiar with astro
- 
+ <img src="teensy unicorn.png" alt="a small floating uni-friend" align="right"></img>
+
 ---
 
 ### ✦ 𝐰𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐦𝐞 ¤°•.•°
