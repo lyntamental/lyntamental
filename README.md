@@ -1,4 +1,4 @@
-# °•.•°¤*✬.•°°• Enchantée, precious guest. °•°•.✬*¤°•.•°
+<h1> °•.•°¤*✬.•°°• 𝐄𝐧𝐜𝐡𝐚𝐧𝐭é𝐞, 𝐩𝐫𝐞𝐜𝐢𝐨𝐮𝐬 𝐠𝐮𝐞𝐬𝐭. °•°•.✬*¤°•.•° </h1>
 > ✦ *currently living in a utopia of sentimental androids.*
 
 ## ✦ 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛! ¤°•.•°
@@ -14,11 +14,10 @@ i love making things garishly hyper-feminine and over indulgent. if that's your 
  
 ---
 
-### ✦ fun fact time! ¤°•.•°
+### ✦ 𝐰𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐦𝐞 ¤°•.•°
+**Portfolio**  ✦  **LinkedIn**  ✦  **Codepen**
+
+### ✦ 𝐚 𝐭𝐢𝐝𝐛𝐢𝐭 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐫𝐨𝐚𝐝... ¤°•.•°
 did you know... unicorns were originally imagined by northern european explorers as a way of explaining the concept of rhinos to their local associates? 
 so *technically* unicorns are real! 🦄✨
-
-### ✦ where to find me ¤°•.•°
-Portfolio  ✦  LinkedIn  ✦  Codepen
-
 
