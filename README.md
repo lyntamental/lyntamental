@@ -1,4 +1,4 @@
-<h1> °•.•°¤*✬.•°°• 𝐄𝐧𝐜𝐡𝐚𝐧𝐭é𝐞, 𝐩𝐫𝐞𝐜𝐢𝐨𝐮𝐬 𝐠𝐮𝐞𝐬𝐭. °•°•.✬*¤°•.•° </h1>
+<h1 align="center"> °•.•°¤*✬.•°°• 𝐄𝐧𝐜𝐡𝐚𝐧𝐭é𝐞, 𝐩𝐫𝐞𝐜𝐢𝐨𝐮𝐬 𝐠𝐮𝐞𝐬𝐭. °•°•.✬*¤°•.•° </h1>
 
 <img src="clouds.jpg" alt="a blush colored textured banner" align="center"></img>
 > ✦ *currently living in a utopia of sentimental androids.*
