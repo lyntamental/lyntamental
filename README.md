@@ -16,7 +16,7 @@ i love making things garishly hyper-feminine and over indulgent. if that's your 
 ---
 
 ### ✦ 𝐰𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐦𝐞 ¤°•.•°
-**Portfolio**  ✦  **LinkedIn**  ✦  **Codepen**
+[**Portfolio**](http://sentimental.design/)  ✦  [**LinkedIn**](https://www.linkedin.com/in/lyn-dickinson-125002173/)  ✦  [**Codepen**](https://codepen.io/sentimental)
 
 ### ✦ 𝐚 𝐭𝐢𝐝𝐛𝐢𝐭 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐫𝐨𝐚𝐝... ¤°•.•°
 did you know... unicorns were originally imagined by northern european explorers as a way of explaining the concept of rhinos to their local associates? 
