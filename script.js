@@ -1,1 +1,0 @@
-console.log("Lyn's Lamentful Landing Page");
